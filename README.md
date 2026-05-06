@@ -1,4 +1,5 @@
-## Website URL ➡️ https://whatsapp-chat-analyzer-kyxnvhjyj6cbenzqjn5oun.streamlit.app/
+## Website URL ➡️ https://whatsapp-chat-analyzer-kyxnvhjyj6cbenzqjn5oun.streamlit.app
+
 
 
 # 💬 WhatsApp Chat Analyser
