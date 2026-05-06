@@ -239,7 +239,7 @@ if analyse_btn:
         ghost = helper.ghost_finder(df)
         fig, ax = plt.subplots()
         ax.bar(ghost['user'], ghost['percentage'], color=C[2], edgecolor='#0d1117')
-        ax.set_ylabel("Percentage (%)")
+        ax.set_ylabel("Number of times")
         plt.xticks(rotation=90)
         st.pyplot(fig)
 
