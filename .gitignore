@@ -38,3 +38,11 @@ dist/
 # Large/private chat exports (optional)
 # Uncomment if you don't want raw chats on GitHub
 # *.txt
+
+# Python cache
+__pycache__/
+
+# Chat export files
+_chat.txt
+sample_chat.txt
+*.txt
